@@ -1,0 +1,29 @@
+{
+  "name": "nucampsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel --open",
+    "build": "parcel build"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwendwavickie/nucampsite.git"
+  },
+  "keywords": [],
+  "author": "Vickie Mwendwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwendwavickie/nucampsite/issues"
+  },
+  "homepage": "https://github.com/mwendwavickie/nucampsite#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.1",
+    "bootstrap": "^5.2.3"
+  }
+}
